@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Author: Kaycon
+
 #Update Package Index and Upgrade Packages
 apt-get update -y
 
